@@ -143,4 +143,4 @@ Oh, one more thing, please do not forget to put a description when you make your
 ## Author
 
 - [Kerich Mike](https://www.linkedin.com/in/mike-kerich-6952081a0//)
-[![My Twitter Link](https://img.shields.io/twitter/follow/emmanuelkoupoh?style=social)](https://twitter.com/emmanuelkoupoh)
+[![Medium Channel link](https://medium.com/@mkibekerich14/sepsis-analysis-baa6abc862a0)](https://medium.com/@mkibekerich14)
