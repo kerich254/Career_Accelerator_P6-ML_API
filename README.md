@@ -133,6 +133,8 @@ Here are some ressources you would read to have a good understanding of FastAPI 
 
 
 ## Contributing
+# Notebook 
+Jupyter notebook containing all  the codes added
 
 Feel free to make a PR or report an issue 😃.
 
